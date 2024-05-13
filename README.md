@@ -3,19 +3,17 @@ Installation::
 - npm install my-express-framework
 Getting Started:
 
-Create a new directory for your project:
-mkdir express Node.Js
-cd express Node.Js
-Initialize a new Node.js project:
+- Create a new directory for your project:
+- mkdir express Node.Js
+- cd express Node.Js
+- Initialize a new Node.js project:
 
 
 npm init 
-Install all dependencies need:
-creat routes
-create controller methods for the routes
-create middleware
-
-
+- Install all dependencies need:
+- creat routes
+- create controller methods for the routes
+- create middleware
 
 Create an server.js file and initialize the application
 
