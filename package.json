@@ -1,0 +1,16 @@
+{
+  "name": "express-node.js",
+  "version": "1.0.0",
+  "description": "learning express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "node --watch server"
+  },
+  "author": "james njuguna",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.19.2"
+  }
+}
